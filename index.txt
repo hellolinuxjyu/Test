@@ -1,0 +1,3 @@
+V	260819045347Z		01	unknown	/C=CN/ST=Shanghai/L=Pudong/O=MyOrganization/OU=MyOrganizationalUnit/CN=server/name=EasyRSA/emailAddress=me@myhost.mydomain
+V	260819045434Z		02	unknown	/C=CN/ST=Shanghai/L=Pudong/O=MyOrganization/OU=MyOrganizationalUnit/CN=client1/name=EasyRSA/emailAddress=me@myhost.mydomain
+V	260819045454Z		03	unknown	/C=CN/ST=Shanghai/L=Pudong/O=MyOrganization/OU=MyOrganizationalUnit/CN=client2/name=EasyRSA/emailAddress=me@myhost.mydomain
